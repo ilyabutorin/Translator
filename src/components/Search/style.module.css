@@ -1,0 +1,18 @@
+.search_container {
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.search_container input {
+    border-radius: 20px;
+    width: 300px;
+    background-color: #e5e5e5;
+    border: none;
+    padding: 20px;
+    font-size: 15px;
+}
